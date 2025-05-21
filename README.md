@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Full Stack Developer & Web Enthusiast <br/>
-  🔧 Crafting modern web apps with React, Express, and Prisma <br/>
+  🔧 Crafting modern web apps with React <br/>
   💼 Open to collaborations and freelance opportunities
 </p>
 
@@ -16,9 +16,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on a feature-rich eCommerce platform  
-- 🧠 Learning backend performance optimization & advanced data modeling  
-- 💬 Ask me about React, Express, Prisma, PostgreSQL & UI architecture  
+- 🔭 Currently working on a food delivery platform  
+- 🧠 Learning frontend & advanced concept of React  
+- 💬 Ask me about React, JavaScript, css, HTML.   
 - 📫 Reach me at: umangdhandhukiya97@gmail.com
 
 ---
@@ -26,7 +26,7 @@
 ### 💻 Tech Stack
 
 - ⚛️ Frontend: React.js, Tailwind CSS, Bootstrap  
-- 🛠 Backend: Node.js, Express.js, Prisma ORM  
+- 🛠 Backend: Node.js
 - 🗄 Database: PostgreSQL, MongoDB  
 - 🧰 Tools: Git, GitHub, Postman, Vercel, Render
 
